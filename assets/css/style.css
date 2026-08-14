@@ -151,7 +151,7 @@ code {
 
 .highlight .c { color: #6a9955; }   /* comments */
 .highlight .k { color: #c678dd; }   /* keywords */
-.highlight .s { color: #ce9178; }   /* strings */
-.highlight .n { color: #dcdcaa; }   /* names */
-.highlight .m { color: #b5cea8; }   /* numbers */
+.highlight .s { color: #6676cf; }   /* strings */
+.highlight .n { color: #b9df95; }   /* names */
+.highlight .m { color: #a55049; }   /* numbers */
 .highlight .p { color: #d4d4d4; }   /* punctuation ------------ wow my hands hurt, comments really suck in css */
