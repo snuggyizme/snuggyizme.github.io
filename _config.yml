@@ -1,2 +1,7 @@
 title: snuggyizme :)
 description: This is a description
+markdown: kramdown
+highlighter: rogue
+
+kramdown:
+  input: GFM

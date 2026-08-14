@@ -135,3 +135,23 @@ code {
     font-family: "DM Mono", monospace;
     font-size: 0.85em;
 }
+
+/* Syntax Highlighting */
+.highlight {
+    background: #20202f;
+    color: #e8eaec;
+    padding: 12px 14px;
+    border-radius: 7px;
+    border: 2px solid #6666ff;
+    overflow-x: auto;
+    font-family: "DM Mono", monospace;
+    font-size: 0.85em;
+    line-height: 1.5;
+}
+
+.highlight .c { color: #6a9955; }   /* comments */
+.highlight .k { color: #c678dd; }   /* keywords */
+.highlight .s { color: #ce9178; }   /* strings */
+.highlight .n { color: #dcdcaa; }   /* names */
+.highlight .m { color: #b5cea8; }   /* numbers */
+.highlight .p { color: #d4d4d4; }   /* punctuation */

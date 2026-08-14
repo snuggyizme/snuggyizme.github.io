@@ -10,7 +10,7 @@ My name is `index.md`
 
 **Yo also I'm _b o l d_**
 
-```swift
+```gdscript
 This is a big code block!
 
 lalalallalalall
