@@ -81,11 +81,11 @@ em strong, strong em {
 
 @keyframes scrollLines {
     from {
-        background-position: 0 0;
+        transform: translate(0, 0);
     }
 
     to {
-        background-position: 56.57px 56.57px;;
+        transform: translate(44px, 44px);
     }
 }
 
@@ -103,7 +103,6 @@ em strong, strong em {
         transparent 60px,
         transparent 80px
     );
-    background-size: 70px 70px;
     animation: scrollLines 2s linear infinite;
     pointer-events: none; /* Filter mouse off */
     z-index: -1;
