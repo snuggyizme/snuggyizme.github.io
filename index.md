@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Hello!
 
 *Testing testing testing*
