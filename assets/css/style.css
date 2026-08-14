@@ -81,7 +81,7 @@ em strong, strong em {
 
 @keyframes scrollLines {
     from {
-        background: 0 0;
+        background-position: 0 0;
     }
 
     to {
