@@ -4,13 +4,27 @@
 }
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,87.5,300..800;1,87.5,300..800&display=swap');
 
+/* Generic body text */
 body {
     background: #20202f;
-    color: #eceae8;
+    color: #e8eaec;
 
     font-family: 'Open Sans', sans-serif;
 }
 
+/* All headings */
 h1, h2, h3 {
     font-family: "toxigenesis bd";
+}
+
+/* Italic */
+em {
+    color: #4e8fbb;
+    font-style: italic;
+}
+
+/* Bold */
+strong {
+    color: #aa3333;
+    font-variation-settings: "wdth" 100.0;
 }
