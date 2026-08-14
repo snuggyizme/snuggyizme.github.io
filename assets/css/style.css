@@ -109,3 +109,11 @@ em strong, strong em {
     pointer-events: none; /* Filter mouse off */
     z-index: -1;
 }
+
+/* Code block */
+pre {
+    background: #20202f;
+    padding: 8px 14px;
+    border-radius:  7px;
+    border: 2px solid #6666ff
+}
