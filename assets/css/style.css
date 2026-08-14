@@ -124,7 +124,7 @@ pre {
     border-radius: 7px;
     border: 2px solid #6666ff;
     font-family: "Dm Mono", monospace;
-    font-size: 0.85em;
+    font-size: 1em;
 }
 
 /* Inline code */
@@ -133,11 +133,11 @@ code {
     padding: 4px 7px;
     border-radius: 7px;
     font-family: "DM Mono", monospace;
-    font-size: 0.85em;
+    font-size: 1em;
 }
 
 /* Syntax Highlighting */
-.highlight {
+.highlight pre {
     background: #20202f;
     color: #e8eaec;
     padding: 12px 14px;
@@ -145,7 +145,7 @@ code {
     border: 2px solid #6666ff;
     overflow-x: auto;
     font-family: "DM Mono", monospace;
-    font-size: 0.85em;
+    font-size: 1em;
     line-height: 1.5;
 }
 
@@ -154,4 +154,4 @@ code {
 .highlight .s { color: #ce9178; }   /* strings */
 .highlight .n { color: #dcdcaa; }   /* names */
 .highlight .m { color: #b5cea8; }   /* numbers */
-.highlight .p { color: #d4d4d4; }   /* punctuation */
+.highlight .p { color: #d4d4d4; }   /* punctuation ------------ wow my hands hurt, comments really suck in css */
