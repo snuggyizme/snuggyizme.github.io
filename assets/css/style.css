@@ -29,7 +29,8 @@ strong {
     font-variation-settings: "wdth" 100.0;
 }
 
-em strong {
+/* Italic + Bold */
+em strong, strong em {
     color: #c9c945;
     font-variation-settings: "wdth" 100.0;
     font-weight: 900;
