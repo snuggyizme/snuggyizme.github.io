@@ -4,6 +4,18 @@
 }
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,87.5,300..800;1,87.5,300..800&display=swap');
 
+main {
+    background: #29293a;
+
+    max-width: 800px;
+    min-height: 100vh;
+
+    margin: 0 auto;
+    padding: 40px;
+
+    text-align: left;
+}
+
 /* Generic body text */
 body {
     background: #20202f;
