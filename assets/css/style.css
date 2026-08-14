@@ -89,13 +89,18 @@ em strong, strong em {
 }
 
 .topBar::after {
+    content: "";
+
     position: absolute;
     inset: -100%;
     background: repeating-linear-gradient(
         -45deg,
         transparent 0px,
         transparent 20px,
-        #ca77a8, #9b58a1,
+        #ca77a8 20px,
+        #ca77a8 22px,
+        transparent 22px,
+        transparent 42px
     );
     animation: scrollLines 2s linear infinite;
 }
