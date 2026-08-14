@@ -1,14 +1,15 @@
+/* Open Sans */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,87.5,300..800;1,87.5,300..800&display=swap');
+
+/* Dm Mono */
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+
 /* Toxigenesis Bd */
 @font-face {
     font-family: "toxigenesis bd";
     src: url("/assets/fonts/toxigenesis\ bd.otf") format("opentype");
 }
 
-/* Open Sans */
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,87.5,300..800;1,87.5,300..800&display=swap');
-
-/* Dm Mono */
-@import url('https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
 
 main {
     background: #29293a;
@@ -122,7 +123,7 @@ pre {
     padding: 8px 14px;
     border-radius:  7px;
     border: 2px solid #6666ff;
-    font-family: "Dm Mono";
+    font-family: "Dm Mono", monospace;
 }
 
 /* Inline code */
@@ -130,5 +131,5 @@ code {
     background: #20202f;
     padding: 4px 7px;
     border-radius:  7px;
-    font-family: "Dm Mono";
+    font-family: "DM Mono", monospace;
 }
