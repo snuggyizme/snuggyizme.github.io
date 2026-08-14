@@ -121,17 +121,17 @@ em strong, strong em {
 pre {
     background: #20202f;
     padding: 8px 14px;
-    border-radius:  7px;
+    border-radius: 7px;
     border: 2px solid #6666ff;
     font-family: "Dm Mono", monospace;
-    font-size: 2;
+    font-size: 0.85em;
 }
 
 /* Inline code */
 code {
     background: #20202f;
     padding: 4px 7px;
-    border-radius:  7px;
+    border-radius: 7px;
     font-family: "DM Mono", monospace;
-    font-size: 2;
+    font-size: 0.85em;
 }
