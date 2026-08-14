@@ -100,9 +100,10 @@ em strong, strong em {
         transparent 20px,
         #ca77a8 20px,
         #ca77a8 66px,
-        transparent 22px,
-        transparent 42px
+        transparent 66px,
+        transparent 86px
     );
     animation: scrollLines 2s linear infinite;
+    pointer-events: none; /* Filter mouse off */
     z-index: -1;
 }
