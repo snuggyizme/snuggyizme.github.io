@@ -2,12 +2,13 @@
     font-family: "toxigenesis bd";
     src: url("/assets/fonts/toxigenesis\ bd.otf") format("opentype");
 }
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,87.5,300..800;1,87.5,300..800&display=swap');
 
 body {
     background: #20202f;
     color: red;
 
-    font-family: Arial, sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h1, h2, h3 {
