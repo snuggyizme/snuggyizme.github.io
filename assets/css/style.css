@@ -47,3 +47,17 @@ em strong, strong em {
     font-variation-settings: "wdth" 100.0;
     font-weight: 900;
 }
+
+.buttonLink {
+    display: inline-block;
+    color: #ffffff;
+    background: #44445a;
+    padding: 8px 14px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.button:hover {
+    background: #ff9de2;
+    color: #20202f;
+}
