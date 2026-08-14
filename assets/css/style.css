@@ -76,6 +76,7 @@ em strong, strong em {
 .topBar {
     position: relative;
     overflow: hidden;
+    isolation: isolate;
 }
 
 @keyframes scrollLines {
@@ -98,9 +99,10 @@ em strong, strong em {
         transparent 0px,
         transparent 20px,
         #ca77a8 20px,
-        #ca77a8 22px,
+        #ca77a8 66px,
         transparent 22px,
         transparent 42px
     );
     animation: scrollLines 2s linear infinite;
+    z-index: -1;
 }
