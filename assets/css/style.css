@@ -48,6 +48,9 @@ strong {
 }
 
 /* Italic + Bold */
+/*
+    CSS is stupid (although it makes good sense) so we gotta have both ib and bi
+*/
 em strong, strong em {
     color: #c9c945;
     font-variation-settings: "wdth" 100.0;
