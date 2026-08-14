@@ -19,7 +19,7 @@ h1, h2, h3 {
 
 /* Italic */
 em {
-    color: #4e8fbb;
+    color: #6bb0d8;
     font-style: italic;
 }
 
@@ -27,4 +27,10 @@ em {
 strong {
     color: #aa3333;
     font-variation-settings: "wdth" 100.0;
+}
+
+em strong {
+    color: #c9c945;
+    font-variation-settings: "wdth" 100.0;
+    font-weight: 900;
 }
