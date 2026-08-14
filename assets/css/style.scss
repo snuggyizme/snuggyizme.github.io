@@ -1,4 +1,15 @@
+@font-face {
+    font-family: "toxigenesis bd";
+    src: url("/assets/fonts/toxigenesis\ bd.otf") format("opentype");
+}
+
 body {
     background: #20202f;
     color: red;
+
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "toxigenesis bd";
 }
