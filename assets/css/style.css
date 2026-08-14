@@ -53,11 +53,11 @@ em strong, strong em {
     color: #ffffff;
     background: #44445a;
     padding: 8px 14px;
-    border-radius: 8px;
+    border-radius: 2px;
     text-decoration: none;
 }
 
-.button:hover {
+.buttonLink:hover {
     background: #ff9de2;
     color: #20202f;
 }
