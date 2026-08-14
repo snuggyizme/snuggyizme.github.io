@@ -117,3 +117,11 @@ pre {
     border-radius:  7px;
     border: 2px solid #6666ff
 }
+
+/* Inline code */
+code {
+    background: #20202f;
+    padding: 4px 7px;
+    border-radius:  7px;
+    
+}
