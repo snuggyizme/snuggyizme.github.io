@@ -124,7 +124,7 @@ pre {
     border-radius: 7px;
     border: 2px solid #6666ff;
     font-family: "Dm Mono", monospace;
-    font-size: 1em;
+    font-size: 0.75em;
 }
 
 /* Inline code */
@@ -133,7 +133,7 @@ code {
     padding: 4px 7px;
     border-radius: 7px;
     font-family: "DM Mono", monospace;
-    font-size: 1em;
+    font-size: 0.75em;
 }
 
 /* Syntax Highlighting */
@@ -145,7 +145,7 @@ code {
     border: 2px solid #6666ff;
     overflow-x: auto;
     font-family: "DM Mono", monospace;
-    font-size: 1em;
+    font-size: 0.75em;
     line-height: 1.5;
 }
 
