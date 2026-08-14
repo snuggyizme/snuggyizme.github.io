@@ -57,6 +57,7 @@ em strong, strong em {
     font-weight: 900;
 }
 
+/* Button */
 .buttonLink {
     display: inline-block;
     color: #ffffff;
@@ -66,7 +67,35 @@ em strong, strong em {
     text-decoration: none;
 }
 
+/* Hover effekts :3 ~   Pink*/
 .buttonLink:hover {
     background: #ff9de2;
     color: #20202f;
+}
+
+.topBar {
+    position: relative;
+    overflow: hidden;
+}
+
+@keyframes scrollLines {
+    from {
+        transform: translate(0, 0);
+    }
+
+    to {
+        transform: translate(44px, 44px);
+    }
+}
+
+.topBar::after {
+    position: absolute;
+    inset: -100%;
+    background: repeating-linear-gradient(
+        -45deg,
+        transparent 0px,
+        transparent 20px,
+        #ca77a8, #9b58a1,
+    );
+    animation: scrollLines 2s linear infinite;
 }
