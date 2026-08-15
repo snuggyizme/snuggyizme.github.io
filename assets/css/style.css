@@ -89,7 +89,7 @@ em strong, strong em {
 }
 
 .topBarWrapper {
-    position: sticky
+    position: fixed
 }
 
 .topBar {
