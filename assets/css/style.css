@@ -12,7 +12,7 @@
 
 
 main {
-    margin-top: 140px;
+    scroll-margin-top: 140px;
     background: #29293a;
 
     max-width: 800px;
