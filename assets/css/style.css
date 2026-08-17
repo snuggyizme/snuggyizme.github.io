@@ -11,7 +11,7 @@
 }
 
 main {
-    background: #29293a;
+    background: linear-gradient(#29293a, #1f1f2b);
 
     max-width: 800px;
     min-height: 100vh;
