@@ -10,15 +10,13 @@
     src: url("/assets/fonts/toxigenesis\ bd.otf") format("opentype");
 }
 
-
 main {
-    scroll-margin-top: 940px;
     background: #29293a;
 
     max-width: 800px;
     min-height: 100vh;
 
-    margin: 0 auto;
+    margin: 100px auto 0;
     padding: 40px;
 
     text-align: left;
