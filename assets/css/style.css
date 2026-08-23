@@ -69,7 +69,11 @@ em strong, strong em {
 }
 
 /* Button */
-.buttonLink {
+a.buttonLink,
+a.buttonLink:link,
+a.buttonLink:visited,
+a.buttonLink:hover,
+a.buttonLink:active {
     font-family: "toxigenesis bd";
 
     display: inline-block;
@@ -78,6 +82,7 @@ em strong, strong em {
     padding: 8px 14px;
     border-radius: 2px;
     text-decoration: none;
+    font-style: normal;
 }
 
 /* Hover effekts :3 ~   Pink*/
