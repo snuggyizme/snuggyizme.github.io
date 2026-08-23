@@ -163,3 +163,24 @@ code {
 .highlight .n { color: #b9df95; }   /* names */
 .highlight .m { color: #a55049; }   /* numbers */
 .highlight .p { color: #d4d4d4; }   /* punctuation ------------ wow my hands hurt, comments really suck in css */
+
+a {
+    text-decoration: underline;
+    font-style: italic;
+}
+
+a:link {
+    color: #d2f199
+}
+
+a:hover {
+    color: #c0e974
+}
+
+a:active {
+    color:#6a9955
+}
+
+a:visited {
+    color: #595972
+}
