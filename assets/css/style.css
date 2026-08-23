@@ -136,6 +136,7 @@ pre {
     padding: 8px 14px;
     border-radius: 7px;
     border: 2px solid #6666ff;
+    corner-shape: squircle;
     font-family: "Dm Mono", monospace;
     font-size: 1em;
 }
