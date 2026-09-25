@@ -14,3 +14,8 @@ Double Vision
 Small Thoughts
 
 - - -
+
+<img src="/assets/imgs/art/searchAndDestroy.png" alt="Search and Destroy" class="artImage">
+Search and Destroy
+
+- - -
