@@ -11,4 +11,6 @@ I'm *snuggyizme* and I make games and stuff for fun.
 
 -> <a href="/ramblings/" class="buttonLink">Read my ramblings</a>
 
+-> <a href="/art/" class="buttonLink">Look at my art and photography</a>
+
 -> <a href="/about/>" class="buttonLink">DONT Read about me BECAUSE I HAVENT WRITTEN THAT PAGE YET</a>
