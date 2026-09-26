@@ -19,3 +19,8 @@ Small Thoughts
 Search and Destroy
 
 - - -
+
+<img src="/assets/imgs/art/consideration.png" alt="Consideration" class="artImage">
+Consideration
+
+- - -
